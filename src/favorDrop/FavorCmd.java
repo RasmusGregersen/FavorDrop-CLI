@@ -13,7 +13,7 @@ import javax.xml.ws.Service;
  *
  * @author Henrik
  */
-public class Main {
+public class FavorCmd {
 
     public static void main(String[] args) throws MalformedURLException, Exception{
         run();
